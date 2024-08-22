@@ -6,6 +6,4 @@ My first WordPress theme: ASP.NET Robot.
 
 - [@elitewebmaster](https://elitewebmaster.com)
 
-## Demo
 
-https://asprobot.elitewebmaster.com
